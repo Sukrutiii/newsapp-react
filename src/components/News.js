@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState } from 'react'
 import NewsItem from './Newsitem';
 import Spinner from './Spinner';
